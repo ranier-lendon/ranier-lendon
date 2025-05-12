@@ -4,7 +4,6 @@ I'm a passionate student who loves exploring technologies, coding, and working o
 # 💫 About Me:
 - 🎓 Currently studying BSEMC-Game Development<br>
 - 🎮 Aspiring game developer<br>
-- 🐍 I have experience in Python Language<br>
 - 🎨 Terrible at drawing<br>
 
 # 🎯 Goals:
@@ -15,8 +14,7 @@ I'm a passionate student who loves exploring technologies, coding, and working o
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)<br>
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📞 Contact Me
 Feel free to connect or collaborate with me.
