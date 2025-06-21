@@ -1,22 +1,15 @@
-# Hi There 👋, I'm Ranier Lendon!
-I'm a passionate student who loves exploring technologies, coding, and working on fun projects. I am currently pursuing **Bachelor of Science in Entertainment and Multimedia Computing (BSEMC)-Game Development** at *New Era University*. When not working on game projects, you'll find me playing guitar, piano, exercising, gaming, trading and studying.
+#  Hi There, I'm Ranier Lendon!
+##  About Me:
+I'm currently studying BSEMC–Game Development at New Era University. I enjoy designing games, coding fun mechanics, and exploring creative tools like Krita. My goal is to become a game developer who brings unique and enjoyable experiences to players.
+-  Currently studying BSEMC-Game Development<br>
+-  Aspiring game developer<br>
 
-# 💫 About Me:
-- 🎓 Currently studying BSEMC-Game Development<br>
-- 🎮 Aspiring game developer<br>
-- 🎨 Terrible at drawing<br>
-
-# 🎯 Goals:
-- 💡 Know the things I need to learn to build a game<br>
-- 🤖 Learn Godot or Unity<br>
-- 🖌️ Improve my drawing and animation skills
-
-# 💻 Tech Stack:
+##  Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-## 📞 Contact Me
-Feel free to connect or collaborate with me.
-- 📧 Email: ranierlendon11@gmail.com
-- 🔵 Facebook: [Ranier Lendon Palanca Completado](https://www.facebook.com/lendoncompletado09)
+##  Github Stats
+![Ranier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranier-lendon&show_icons=true&theme=radical)
