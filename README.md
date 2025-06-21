@@ -10,6 +10,3 @@ I'm currently studying BSEMC–Game Development at New Era University. I enjoy d
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-##  Github Stats
-![Ranier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranier-lendon&show_icons=true&theme=radical)
