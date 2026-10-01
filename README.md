@@ -13,11 +13,3 @@ I'm currently studying BSEMC–Game Development at New Era University. I enjoy d
 ![GitHub](https://img.shields.io/badge/GitHub-%20?style=for-the-badge&logo=github&logoColor=%23FFFFFF&color=%23181717)
 ![Aseprite](https://img.shields.io/badge/Aseprite-%20?style=for-the-badge&logo=aseprite&logoColor=%23000&color=%237D929E)
 ![Blender](https://img.shields.io/badge/Blender-%20?style=for-the-badge&logo=blender&logoColor=%23FFFFFF&color=%23F5792A)
-
-## 💻 Coding Profiles
-
-**Codewars:**<br>
-[![Codewars](https://www.codewars.com/users/ranier-lendon/badges/large)](https://www.codewars.com/users/ranier-lendon)
-
-**LeetCode:**<br>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ranier-lendon?theme=dark)](https://leetcode.com/ranier-lendon)
